@@ -1,0 +1,22 @@
+
+nav > a{
+    width: 80%;
+    padding: 0.1em;
+}
+
+main > section{
+    width: 90%;
+}
+
+body{
+    max-width: 100% !important;
+}
+
+td, th {
+    padding: 0.1em;
+    border: 0.1em solid black;
+}
+
+th{
+    font-size: 95%;
+}
